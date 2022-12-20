@@ -6,7 +6,7 @@
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
 
-[Description](https://github.com/deenazati08/Nuclei_Image_Segmentation#description) // [Data](https://github.com/deenazati08/Nuclei_Image_Segmentation#data) // [Result](https://github.com/deenazati08/Nuclei_Image_Segmentation#result) // [Credits]https://github.com/deenazati08/Nuclei_Image_Segmentation#discussion)
+[Description](https://github.com/deenazati08/Nuclei_Image_Segmentation#description) // [Data](https://github.com/deenazati08/Nuclei_Image_Segmentation#data) // [Result](https://github.com/deenazati08/Nuclei_Image_Segmentation#result) // [Credits](https://github.com/deenazati08/Nuclei_Image_Segmentation#discussion)
 
 ## Description
 
